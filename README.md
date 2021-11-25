@@ -1,6 +1,10 @@
-## Welcome to Kanki Pages
+## Welcome to The Kanki's Page
 
-You can use the [editor on GitHub](https://github.com/kanki422/hp-practice/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+/プロフィール
+
+　出身：静岡県
+  趣味：NBA観戦
+  所属：KPU
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
