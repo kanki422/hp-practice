@@ -6,7 +6,9 @@
 　趣味：NBA観戦<br>
 　所属：KPU
 
-### Markdown
+### ひとこと
+
+全力に真面目に生きております。楽しくがモットーです。
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
